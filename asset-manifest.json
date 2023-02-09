@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/starterkit/static/js/main.e70522da.js",
+    "static/media/main.webp": "/starterkit/static/media/main.35c2a6acf8602b07e84c.webp",
+    "static/media/straw.webp": "/starterkit/static/media/straw.1c1084d84f79a02213e2.webp",
+    "static/media/loofah.webp": "/starterkit/static/media/loofah.1c873b9988d30a6c981c.webp",
+    "static/media/cup.webp": "/starterkit/static/media/cup.bf661a465a84bfc6153b.webp",
+    "static/media/brush.webp": "/starterkit/static/media/brush.86d3e4268b4ef2da4f49.webp",
+    "static/media/buds.webp": "/starterkit/static/media/buds.b19aaeb6f404c2659a2b.webp",
+    "index.html": "/starterkit/index.html",
+    "main.e70522da.js.map": "/starterkit/static/js/main.e70522da.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e70522da.js"
+  ]
+}
